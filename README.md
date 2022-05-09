@@ -49,8 +49,8 @@ Visualization of convolution filters, which produce an activation map with the h
 ## Citation
 
 >  @article{Zhang2022,<br>
-&emsp；author = {Zhang, Hao and Xu, Dan and Luo, Gaifang and He, Kangjian},<br>
-&emsp；doi = {10.1007/s00521-022-07139-y},<br>
+&nbsp; author = {Zhang, Hao and Xu, Dan and Luo, Gaifang and He, Kangjian},<br>
+&nbsp; doi = {10.1007/s00521-022-07139-y},<br>
 			issn = {0941-0643},<br>
 			journal = {Neural Computing and Applications},<br>
 			publisher = {Springer London},<br>
