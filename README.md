@@ -48,15 +48,15 @@ Visualization of convolution filters, which produce an activation map with the h
 
 ## Citation
 
->  @article{Zhang2022,
-			author = {Zhang, Hao and Xu, Dan and Luo, Gaifang and He, Kangjian},
-			doi = {10.1007/s00521-022-07139-y},
-			issn = {0941-0643},
-			journal = {Neural Computing and Applications},
-			publisher = {Springer London},
-			title = {{Learning multi-level representations for affective image recognition}},
-			url = {https://doi.org/10.1007/s00521-022-07139-y},
-			volume = {0123456789},
+>  @article{Zhang2022,<br>
+			author = {Zhang, Hao and Xu, Dan and Luo, Gaifang and He, Kangjian},<br>
+			doi = {10.1007/s00521-022-07139-y},<br>
+			issn = {0941-0643},<br>
+			journal = {Neural Computing and Applications},<br>
+			publisher = {Springer London},<br>
+			title = {{Learning multi-level representations for affective image recognition}},<br>
+			url = {https://doi.org/10.1007/s00521-022-07139-y},<br>
+			volume = {0123456789},<br>
 			year = {2022}}
 
 
