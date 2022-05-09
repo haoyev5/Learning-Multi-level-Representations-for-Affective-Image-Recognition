@@ -48,5 +48,16 @@ Visualization of convolution filters, which produce an activation map with the h
 
 ## Citation
 
-Zhang, H., Xu, D., Luo, G. *et al.* Learning multi-level representations for affective image recognition. *Neural Comput & Applic* (2022). https://doi.org/10.1007/s00521-022-07139-y
+> @article{Zhang2022,
+      author = {Zhang, Hao and Xu, Dan and Luo, Gaifang and He, Kangjian},
+      doi = {10.1007/s00521-022-07139-y},
+      issn = {0941-0643},
+      journal = {Neural Computing and Applications},
+      publisher = {Springer London},
+      title = {{Learning multi-level representations for affective image recognition}},
+      url = {https://doi.org/10.1007/s00521-022-07139-y},
+      volume = {0123456789},
+      year = {2022}
+  }
+
 
